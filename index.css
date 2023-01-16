@@ -1,0 +1,6 @@
+.form_style{
+    display: flex;
+    background-color: aqua;
+    height: 50px;
+    width: 75px;
+}
